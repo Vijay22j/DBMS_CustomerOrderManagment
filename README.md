@@ -2,7 +2,7 @@
 
 This project focuses on building a **Customer Order Management System** using **SQL Queries** to automate the process of storing and managing customer, product, order, and payment details. The system uses a **Relational Database Management System (RDBMS)** for backend data storage and serves to streamline business operations for a growing wholesale business.
 
-All the **SQL queries** and database schema are included in the PowerPoint presentation (**PPTX**), which you can use as a guide to understand the database structure and operations.
+All the **SQL queries** and database schema are included in the PowerPoint presentation (**PPTX**), which you can use as a guide to understand the database structure and operations.Plese download the raw file and open in your local PC.
 
 ---
 
